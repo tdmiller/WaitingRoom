@@ -1,3 +1,3 @@
-Welcome to WaitingRoom
+#Welcome to WaitingRoom
 
 This is the Jekyll implementation.
