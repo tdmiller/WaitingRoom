@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>WaitingRoom Dev</title>
+    <link href="https://tdmiller.github.io/WaitingRoom/feed.xml" rel="self" />
+    <link href="https://tdmiller.github.io/WaitingRoom" />
+    <updated>2020-06-30T11:03:29-05:00</updated>
+    <author>
+        <name>Tom Miller</name>
+    </author>
+    <id>https://tdmiller.github.io/WaitingRoom</id>
+
+    <entry>
+        <title>WaitingRoom</title>
+        <author>
+            <name>Tom Miller</name>
+        </author>
+        <link href="https://tdmiller.github.io/WaitingRoom/waitingroom.html"/>
+        <id>https://tdmiller.github.io/WaitingRoom/waitingroom.html</id>
+
+        <updated>2020-06-30T10:32:26-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This is a test.
+            ]]>
+        </content>
+    </entry>
+</feed>
